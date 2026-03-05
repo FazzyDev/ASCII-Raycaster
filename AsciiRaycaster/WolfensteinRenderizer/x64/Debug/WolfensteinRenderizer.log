@@ -1,0 +1,3 @@
+﻿G:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (WolfensteinRenderizer.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  renderizer.cpp
+  WolfensteinRenderizer.vcxproj -> G:\CustomTools\WolfensteinRenderizer\x64\Debug\ascii_raycaster.exe
