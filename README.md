@@ -1,6 +1,8 @@
 # ASCII-Raycaster
 A Wolfenstein-style 3D raycaster rendered entirely in the terminal using ASCII characters, built from scratch in C++ with no external graphics libraries.
 
+![ascii_raycaster](https://github.com/user-attachments/assets/f7e9f68d-b110-46db-b55d-bd26fcb33cd3)
+
 ## Features
 - Real-time raycasting engine
 - Player movement and rotation
