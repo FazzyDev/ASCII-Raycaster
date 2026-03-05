@@ -4,7 +4,6 @@ A Wolfenstein-style 3D raycaster rendered entirely in the terminal using ASCII c
 ## Features
 - Real-time raycasting engine
 - Player movement and rotation
-- Wall collision detection
 - Multiple wall types with different characters
 - Flicker-free rendering using ANSI escape codes
 
